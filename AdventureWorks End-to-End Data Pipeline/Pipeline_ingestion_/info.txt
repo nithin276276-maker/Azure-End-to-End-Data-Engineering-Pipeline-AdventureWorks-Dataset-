@@ -1,0 +1,6 @@
+selected resource name:		DynamicGitToRaw
+selected resource type:		pipeline
+factory name:			adf-aw-project-nith-in
+factory location:		eastus
+subscription id:		46b2a1aa-27ec-4e07-ace4-107e86059154
+time of download (UTC):		Sat, 22 Nov 2025 11:15:25 GMT
